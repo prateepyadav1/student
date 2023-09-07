@@ -10,5 +10,7 @@ class GFG {
 		// Print statement
 		System.out.println(
 			"Welcome to GeeksforGeeks Learning");
+            System.out.println(
+			"Welcome to GeeksforGeeks Learning");
 	}
 }
